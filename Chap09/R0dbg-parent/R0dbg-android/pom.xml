@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>R0dbg-parent</artifactId>
+        <groupId>com.dta</groupId>
+        <version>1.0</version>
+    </parent>
+    <packaging>jar</packaging>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>R0dbg-android</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!--        Unicorn-->
+        <dependency>
+            <groupId>com.github.zhkl0228</groupId>
+            <artifactId>unicorn</artifactId>
+            <version>1.0.12</version>
+        </dependency>
+        <!--        Capstone-->
+        <dependency>
+            <groupId>com.github.zhkl0228</groupId>
+            <artifactId>capstone</artifactId>
+            <version>3.0.11</version>
+        </dependency>
+        <!--        Keystone-->
+        <dependency>
+            <groupId>com.github.zhkl0228</groupId>
+            <artifactId>keystone</artifactId>
+            <version>0.9.5</version>
+        </dependency>
+        <!--        ElfParser-->
+        <dependency>
+            <groupId>com.bxlong.elf</groupId>
+            <artifactId>ElfParser</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!--        Common-IO-->
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.7</version>
+        </dependency>
+    </dependencies>
+
+</project>

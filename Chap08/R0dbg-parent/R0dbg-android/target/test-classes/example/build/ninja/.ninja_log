@@ -1,0 +1,7 @@
+# ninja log v5
+0	289	1635825005	CMakeFiles/test-lib.dir/native-lib.cpp.o	76c3f8f0e8e19c30
+290	305	1635825005	/root/Desktop/R0dbg-parent/R0dbg-android/src/test/resources/example/libtest-lib.so	1905e3c6da1779d2
+1	313	1635825085	CMakeFiles/test-lib.dir/native-lib.cpp.o	76c3f8f0e8e19c30
+313	328	1635825085	/root/Desktop/R0dbg-parent/R0dbg-android/src/test/resources/example/libtest-lib.so	1905e3c6da1779d2
+6	891	1635826672	CMakeFiles/test-lib.dir/native-lib.cpp.o	76c3f8f0e8e19c30
+891	989	1635826673	/root/Desktop/R0dbg-parent/R0dbg-android/src/test/resources/example/libtest-lib.so	1905e3c6da1779d2

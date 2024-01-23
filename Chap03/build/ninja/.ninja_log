@@ -1,0 +1,9 @@
+# ninja log v5
+0	640	1633584276	CMakeFiles/native-lib.dir/native-lib.cpp.o	9490818dbd5518c2
+640	715	1633584276	libnative-lib.so	cc41c47c47564e05
+1	481	1633584427	CMakeFiles/native-lib.dir/native-lib.cpp.o	5c950cd30882bb79
+481	539	1633584427	/root/Downloads/unidbg/unidbg-android/src/test/java/com/dta/lesson5/libnative-lib.so	776ff02ad32df696
+0	460	1633584595	CMakeFiles/native-lib.dir/native-lib.cpp.o	5c950cd30882bb79
+460	512	1633584596	/root/Downloads/unidbg/unidbg-android/src/test/java/com/dta/lesson5/libnative-lib.so	776ff02ad32df696
+0	397	1633584966	CMakeFiles/native-lib.dir/native-lib.cpp.o	5c950cd30882bb79
+397	416	1633584966	/root/Downloads/unidbg/unidbg-android/src/test/java/com/dta/lesson5/libnative-lib.so	776ff02ad32df696
